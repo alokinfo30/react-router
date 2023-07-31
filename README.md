@@ -1,4 +1,4 @@
-# Building Modern UIs with React Router v6
+# Building UIs with React Router v6
 This is the repository for the LinkedIn Learning course Building Modern UIs with React Router v6. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Building Modern UIs with React Router v6][lil-thumbnail-url] 
