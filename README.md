@@ -8,3 +8,4 @@ In this project, learn how to extend your React applications by adding routing c
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Run `npm install` to install all project dependencies, then `npm start` to run and launch the app       
 
+Live Project Link: https://pgnav.netlify.app/
