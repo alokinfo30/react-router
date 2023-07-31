@@ -1,4 +1,4 @@
-import featImg from "../assets/img-main.jpg";
+import featImg from "../assets/banner.avif";
 
 export default function Home({ title }) {
   return (
@@ -6,7 +6,7 @@ export default function Home({ title }) {
       <img
         className="img-feat"
         src={featImg}
-        alt="Red30 Tech conference attendees on a laptop"
+        alt="Tech Tech conference attendees on a laptop"
       />
 
       <h1>{title}</h1>

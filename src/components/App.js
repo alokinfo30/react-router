@@ -12,7 +12,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<Home title="Welcome to Red30 Tech" />} />
+        <Route path="/" element={<Home title="Welcome to Learn Tech" />} />
         <Route path="about" element={<About />} />
         <Route path="categories" element={<Categories />}>
           <Route path=":catId" element={<Category />} />
@@ -24,7 +24,7 @@ function App() {
       </Routes>
 
       <footer className="container">
-        &copy;2023 | <a href="https://red30tech.com/">Red30 Tech</a>
+        &copy;2023 | Learn-Tech-With-Alok
       </footer>
     </div>
   );

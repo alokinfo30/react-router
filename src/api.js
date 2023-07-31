@@ -66,7 +66,7 @@ const categories = [
         speaker: {
           name: "Dixie Russel",
           title: "Art Director",
-          org: "Red30 Design",
+          org: "Tech Design",
           bio: "Dixie Russel has run a successful side business selling her paintings for the last seven years, and founded the local arts-makerspace in her neighborhood. We have no idea how she finds time to work for us, we're just glad she does.",
         },
       },
@@ -88,13 +88,13 @@ const categories = [
     id: "community-service",
     sessions: [
       {
-        name: "Community Service Event: Red30Cares ",
-        id: "red30-cares",
-        desc: "Join your fellow makers at our Annual Red30Cares community service event. Red30Cares work in concerted effort to improve the lives of others and to inspire community, activism, and philanthropy on a large scale",
+        name: "Community Service Event: TechCares ",
+        id: "Tech-cares",
+        desc: "Join your fellow makers at our Annual TechCares community service event. TechCares work in concerted effort to improve the lives of others and to inspire community, activism, and philanthropy on a large scale",
         speaker: {
           name: "Jenny Torres",
           title: "Account Executive",
-          org: "Red30 Tech",
+          org: "Tech Tech",
           bio: "Jenny Torres likes to tell others that there is literally a maker or two inside of her since she has spent most of her life morbidly obese due to a rare medical condition. She credits the maker community with giving her the confidence and courage to create.",
         },
       },
@@ -139,7 +139,7 @@ const categories = [
         speaker: {
           name: "Beverley Armstrong",
           title: "Broadcast Engineer",
-          org: "Red30 Design",
+          org: "Tech Design",
           bio: "While Beverley Armstrong is known as a tech head, she also has a secret musical side playing Viennese oboe and other woodwinds.",
         },
       },
@@ -184,7 +184,7 @@ const categories = [
         speaker: {
           name: "Jenny Torres",
           title: "Account Executive",
-          org: "Red30 Tech",
+          org: "Tech Tech",
           bio: "Jenny Torres likes to tell others that there is literally a maker or two inside of her since she has spent most of her life morbidly obese due to a rare medical condition. She credits the maker community with giving her the confidence and courage to create.",
         },
       },

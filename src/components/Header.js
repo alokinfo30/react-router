@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/red30-tech-logo.png";
+import logo from "../assets/logo.jpg";
 
 export default function Header() {
   const getClass = ({ isActive }) => (isActive ? "nav-active" : null);
@@ -10,8 +10,8 @@ export default function Header() {
         <img
           className="logo"
           src={logo}
-          alt="Red30 Tech logo"
-          title="Red30 Tech | Home"
+          alt="Tech Tech logo"
+          title="Tech Tech | Home"
         />
       </Link>
 

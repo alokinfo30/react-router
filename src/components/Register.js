@@ -9,7 +9,7 @@ export default function Register() {
 
   return (
     <div className="container">
-      <h1>Register for Red30 Tech</h1>
+      <h1>Register for Tech Tech</h1>
       <p>
         Make sure to grab your spot for this year's conference! We love
         technology and consistently work towards being the premier provider of

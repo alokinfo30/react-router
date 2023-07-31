@@ -3,7 +3,7 @@ export default function About() {
     <div className="container">
       <h1>Technology and Business Solutions</h1>
       <p>
-        Red30 Tech is the leading source of secure, fully customizable
+        Tech Tech is the leading source of secure, fully customizable
         technology and business solutions. We cater to those who need scalable
         results that are sustainable for their company and the planet. With the
         ever-evolving technology landscape, we want to be your go-to source for
