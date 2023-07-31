@@ -215,7 +215,9 @@ header.container {
   display: flex;
   flex-direction: row;
 }
-
+.nav-active {
+  border-bottom: 2px solid currentColor;
+}
 /* media queries */
 @media (max-width: 767px) {
   nav a {
@@ -250,9 +252,6 @@ header.container {
   }
   nav a {
     margin-left: 1.25em;
-  }
-  .nav-active {
-    border-bottom: 2px solid currentColor;
   }
   .categories {
     display: grid;
