@@ -27,11 +27,5 @@ To resolve this issue:
 1. To use these exercise files, you must have the following installed:
 	- [Node.js](https://nodejs.org/en/)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. Run `npm install` to install all project dependencies, then `npm start` to run and launch the app
+3. Run `npm install` to install all project dependencies, then `npm start` to run and launch the app       
 
-         
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/guil-hernandez).
-
-[lil-course-url]: https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2495079/2495079-1660328056345-16x9.jpg
